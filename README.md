@@ -1,24 +1,74 @@
-# README
+# まちコミ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+その街に住む人の等身大の口コミ、お店情報等を共有できるプラットフォーム。
 
-Things you may want to cover:
+### サイトテーマ
+街の口コミサイト。
 
-* Ruby version
+### テーマを選んだ理由
+新生活で引越しをする機会が何度かありましたが、住みたい街を調べても大まかな街の情報を
+まとめたサイト等しかなく、たくさんの街から物件を絞るのは大変でした。
+リモートワークが進んだことにより。住みたい街が重視される昨今、地域に住む人が知っている穴場スポット、
+住みやすさの情報等の口コミを投稿・閲覧できるサイトがあればより部屋探しが楽しくなる、また街おこし
+にもつながると考え、テーマを選びました。
 
-* System dependencies
+### ターゲットユーザ
+20～30代男女（学生、社会人）。高校・大学生のお子さんを持つ親御さん。
+新生活が始まる学生、新社会人。結婚・出産・転勤・転職等で新しい街を探す男女。
+お子さんの住む街を探す親御さん。
 
-* Configuration
+### 主な利用シーン
+部屋探しや、カフェ等の穴場スポットを探すときなど。
+また、SNSとして閲覧・投稿されるシーンも想定できます。
 
-* Database creation
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1bnJmqim55vZjQsAu7oH-KvlDLMmg3Ci8cBnL8MGR6Hk/edit?usp=sharing
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
+# まちコミ
 
-* ...
+## サイト概要
+その街に住む人の等身大の口コミ、お店情報等を共有できるプラットフォーム。
+
+### サイトテーマ
+街の口コミサイト。
+
+### テーマを選んだ理由
+新生活で引越しをする機会が何度かありましたが、住みたい街を調べても大まかな街の情報を
+まとめたサイト等しかなく、たくさんの街から物件を絞るのは大変でした。
+リモートワークが進んだことにより。住みたい街が重視される昨今、地域に住む人が知っている穴場スポット、
+住みやすさの情報等の口コミを投稿・閲覧できるサイトがあればより部屋探しが楽しくなる、また街おこし
+にもつながると考え、テーマを選びました。
+
+### ターゲットユーザ
+20～30代男女（学生、社会人）。高校・大学生のお子さんを持つ親御さん。
+新生活が始まる学生、新社会人。結婚・出産・転勤・転職等で新しい街を探す男女。
+お子さんの住む街を探す親御さん。
+
+### 主な利用シーン
+部屋探しや、カフェ等の穴場スポットを探すときなど。
+また、SNSとして閲覧・投稿されるシーンも想定できます。
+
+## 設計書
+
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1bnJmqim55vZjQsAu7oH-KvlDLMmg3Ci8cBnL8MGR6Hk/edit?usp=sharing
+
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
