@@ -37,6 +37,7 @@
 まだ行ったことのないカフェなどのおすすめスポットを探しているとき。
 
 ## 設計書
+https://docs.google.com/spreadsheets/d/1c7DnEUyBlNIns8l0SGt07SX2wdNjQgZ5/edit?usp=sharing&ouid=100442303472814909127&rtpof=true&sd=true
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1e4BrKD8kLG1ZPbRmxWpCY1FGs-LnXQKhGHXDMWYfIhU/edit?usp=sharing
